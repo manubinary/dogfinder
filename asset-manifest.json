@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/dogfinder/static/css/main.9f4f478b.chunk.css",
+    "main.js": "/dogfinder/static/js/main.d08f1e04.chunk.js",
+    "main.js.map": "/dogfinder/static/js/main.d08f1e04.chunk.js.map",
+    "runtime-main.js": "/dogfinder/static/js/runtime-main.b1e8e9c9.js",
+    "runtime-main.js.map": "/dogfinder/static/js/runtime-main.b1e8e9c9.js.map",
+    "static/css/2.4c97ca4f.chunk.css": "/dogfinder/static/css/2.4c97ca4f.chunk.css",
+    "static/js/2.80127560.chunk.js": "/dogfinder/static/js/2.80127560.chunk.js",
+    "static/js/2.80127560.chunk.js.map": "/dogfinder/static/js/2.80127560.chunk.js.map",
+    "static/js/3.fa9af121.chunk.js": "/dogfinder/static/js/3.fa9af121.chunk.js",
+    "static/js/3.fa9af121.chunk.js.map": "/dogfinder/static/js/3.fa9af121.chunk.js.map",
+    "index.html": "/dogfinder/index.html",
+    "static/css/2.4c97ca4f.chunk.css.map": "/dogfinder/static/css/2.4c97ca4f.chunk.css.map",
+    "static/css/main.9f4f478b.chunk.css.map": "/dogfinder/static/css/main.9f4f478b.chunk.css.map",
+    "static/js/2.80127560.chunk.js.LICENSE.txt": "/dogfinder/static/js/2.80127560.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b1e8e9c9.js",
+    "static/css/2.4c97ca4f.chunk.css",
+    "static/js/2.80127560.chunk.js",
+    "static/css/main.9f4f478b.chunk.css",
+    "static/js/main.d08f1e04.chunk.js"
+  ]
+}
