@@ -79,6 +79,7 @@ function Home() {
     return(content);
   };
 
+
   const loadSubBreed = (breed) => {
     setSelectedBreed(breed);
     setSubBreedList([]);
